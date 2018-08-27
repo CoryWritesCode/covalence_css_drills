@@ -12,7 +12,7 @@
 
 1. In the body element, create a div with an id of "container"
 2. Add 4 div elements with a class name of "boxes" and a unique id (box1, box2, boxN) inside the container div. Each added div will be a child of the container div and a sibling to each other.
-3. Create an <h2>, <p>, and <a> element inside of each of the 4 div's. Add the following content to the elements:
+3. Create an `<h2>`, `<p>`, and `<a>` element inside of each of the 4 div's. Add the following content to the elements:
   -h2: Add a story title in each header
   -p: Add a story description within each paragraph
   -a: Add a link that says "Read More"
@@ -22,7 +22,7 @@
 1. Assign a global font family
   - Here is a list of some Web Safe Fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
   - You could also play around with Google Fonts: https://fonts.google.com/
-  - *Hint:* use the body selector.
+  - **Hint:** use the body selector.
 2. Change the background color for the body element to a light grey color.
 3. Use a multiple selector rule set to center the text for all h2, p, and a elements.
 4. Use an element selector to remove the default underline styles for anchor tags and change the font color:
