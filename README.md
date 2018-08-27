@@ -2,12 +2,14 @@
 ## Let's practice using the fundamentals of CSS!
 
 **Setup**
+
 1. Create a new project folder and connect it to a github repository. Copy the text from this README.md file into it.
 2. Create an index.html file and a styles.css file.
 3. Use the ! emmet shortcut to stub out the page.
 4. In the <head>, link the the CSS file to the HTML page.
 
 **Build the HTML Structure**
+
 1. In the body element, create a div with an id of "container"
 2. Add 4 div elements with a class name of "boxes" and a unique id (box1, box2, boxN) inside the container div. Each added div will be a child of the container div and a sibling to each other.
 3. Create an <h2>, <p>, and <a> element inside of each of the 4 div's. Add the following content to the elements:
@@ -16,6 +18,7 @@
   -a: Add a link that says "Read More"
 
 **Now, Lets style!**
+
 1. Assign a global font family
   - Here is a list of some Web Safe Fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
   - You could also play around with Google Fonts: https://fonts.google.com/
@@ -52,6 +55,7 @@
 24. Position the div so its inline and to the left of the header.
 
 **Styling Specificity**
+
 1. Insert 3 h1 tags into the html document, give each text for your favorite TV shows.
 2. Apply styling so that all h1’s have a font color of your choice.
 3. Add 2 more h1’s with 2 other TV shows. What immediately happens to their font color when you refresh the html doc?
@@ -64,4 +68,5 @@
 10. Apply styling using the id of each h1, give each a different color. Refresh the document and see how this type of styling changes what was already applied. Create 3 unordered lists, each with 5 items, have the first list be 5 friend's names, have the next be 5 places you want to travel, and have the last list be your favorite restaurants.
 11. Apply the same steps covered in the directions to play with the specificity of styling on each of these lists.
 12. Wrap each list in a div, give the div a border that is 2 pixels thick, have it be solid and the color be black.
-13. Isn't styling fun? We know it can be tricky and tedious, but the more you practice, the better you'll get at it. After a while, you won't even think about it anymore :)
+
+Isn't styling fun? We know it can be tricky and tedious, but the more you practice, the better you'll get at it. After a while, you won't even think about it anymore :)
